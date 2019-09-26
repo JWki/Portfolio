@@ -6,7 +6,7 @@ googleAnalytics = ""
 publishDir = "JWki.github.io"
 
 [params]
-    author = "Calin Tataru"
+    author = "Jascha Wedowski"
     description = "Personal blog theme powered by Hugo"
     githubUsername = "#"
     accent = "red"
@@ -23,7 +23,7 @@ publishDir = "JWki.github.io"
     weight = 1
 
 [[menu.main]]
-    url = "/post/"
+    url = "/post/test"
     name = "Posts"
     weight = 2
 
@@ -42,21 +42,12 @@ publishDir = "JWki.github.io"
     weight = 1
 
 [[menu.icon]]
-    url = "https://github.com/username/"
+    url = "https://github.com/JWki/"
     name = "github"
     weight = 2
 
 [[menu.icon]]
-    url = "https://twitter.com/username/"
+    url = "https://twitter.com/wki_j/"
     name = "twitter"
     weight = 3
 
-[[menu.icon]]
-    url = "https://www.linkedin.com/in/username/"
-    name = "linkedin"
-    weight = 4
-
-[[menu.icon]]
-    url = "https://www.stackoverflow.com/username/"
-    name = "stack-overflow"
-    weight = 5
