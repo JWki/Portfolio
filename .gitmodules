@@ -1,3 +1,6 @@
 [submodule "themes/minimal"]
 	path = themes/minimal
 	url = https://github.com/calintat/minimal.git
+[submodule "JWki.github.io"]
+	path = JWki.github.io
+	url = git@github.com:JWki/JWki.github.io.git
