@@ -2,7 +2,7 @@
 date = "2016-11-05T19:41:01+05:30"
 title = "Game Programming Lab Project: GPP"
 draft = false
-image = "img/portfolio/GPP/dismaterial.PNG"
+image = "img/portfolio/GPP/thumbnail.png"
 showonlyimage = false
 weight = 1
 +++

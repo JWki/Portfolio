@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/portfolio/locust/screenshot004.jpg"
+image = "img/portfolio/locust/thumbnail.png"
 date = "2016-11-05T18:25:22+05:30"
 title = "Yet another renderer: Locust"
 weight = -1
