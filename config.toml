@@ -12,7 +12,7 @@ baseURL = "https://JWki.github.io"
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "default"
+  style = "blue"
   description = "Describe your website"
   copyright = "&copy;2019 Jascha Wedowski"
   sidebarAbout = [
