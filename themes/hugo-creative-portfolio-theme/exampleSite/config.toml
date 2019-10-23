@@ -1,5 +1,5 @@
 baseurl = "https://example.org/"
-title = "Jascha Wedowski programming Portfolio"
+title = "Creative portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -12,9 +12,10 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "default"
   description = "Describe your website"
-  copyright = "&copy;2019 Jascha Wedowski"
+  copyright = "&copy;2016 Your name or company"
   sidebarAbout = [
-    "Graphics and Game Engine Programming",
+    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
+    "Originally from Toronto, currently based in London."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -28,7 +29,7 @@ googleAnalytics = ""
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "jascha.wedowski@gmail.com"
+  email = "you@yoursite.com"
 
     # Optional Matomo analytics (formerly piwik)
       # [params.analytics.matomo]
@@ -54,9 +55,13 @@ googleAnalytics = ""
   url = "contact/"
 
   [params.social]
-  email         = "jascha.wedowski@gmail.com"
-  twitter       = "https://twitter.com/wki_j"
-  linkedin      = "https://www.linkedin.com/in/jascha-wedowski-130564196/"
-  github        = "https://github.com/JWki/"
-
-
+  facebook      = "full page or profile url in facebook"
+  googleplus    = "full profile url in googleplus"
+  email         = "email@example.com"
+  twitter       = "full profile url in twitter"
+  linkedin      = "full profile url in linkedin"
+  stackoverflow = "full profile url in stackoverflow"
+  instagram     = "full profile url in instagram"
+  github        = "full profile url in github"
+  youtube       = "full profile url in youtube"
+  whatsapp      = "wa.me service link"
