@@ -7,6 +7,7 @@ disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 publishDir = "JWki.github.io"
+baseURL = "https://JWki.github.io"
 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
