@@ -1,3 +1,5 @@
+publishDir = "JWki.github.io"
+
 baseurl = "https://example.org/"
 title = "Jascha Wedowski programming Portfolio"
 theme = "hugo-creative-portfolio-theme"
