@@ -1,5 +1,5 @@
 +++
-date = "2016-11-05T19:41:01+05:30"
+date = "2019-10-23"
 title = "Game Programming Lab Project: GPP"
 draft = false
 image = "img/portfolio/GPP/thumbnail.png"
@@ -11,9 +11,18 @@ This project was part of my Bachelors degree in Computer Science. Originally int
 <!--more-->
 
 ...my team very quickly settled on a small, self contained tech demo, considering how that would allow to completely focus on the important bits: The tech. As a team of five, we set ourselves an ambitious goal - a showroom like demo featuring a custom physics engine with support for dynamic deformation, nicely brought to screen by a physically based renderer through an extensive post processing stack. 
+
+![Material Editor][4]
+*A glimpse of the material editor allowing new materials to be created on the fly at runtime.* \
+
 Unfortunately, health issues of one member of the team lead to the physics engine having to be cut, however we still managed to get quite an extensive array of features done.
 
-### Features
+![PBR Materials + IBL][2]
+*More advanced material showcasing parallax occlusion mapping.* \
+
+
+![Spotlight][5]
+*A simple yet gorgeous spotlight.* 
 
 Here's a few of the graphics features I personally worked on:
 
@@ -22,6 +31,7 @@ Here's a few of the graphics features I personally worked on:
 * Post processing stack including image based lens flares, HDR bloom + tone mapping and colorization and vignette stylization effects.
 * Realtime analytic light sources - point lights, spot lights and directional lights - and fully linear lighting.
 * Fully deferred renderer (using clustered light culling as mentioned below).
+
 
 Besides these, I was also responsible for a lot of the core architecture of both the renderer as well as the entire application and systems tangential to rendering, including the following aspects:
 
@@ -32,22 +42,18 @@ Besides these, I was also responsible for a lot of the core architecture of both
 * In-engine tools for material creation, scene manipulation and object editing.
 * In-engine debugging tools with visualization of render pipeline stages, quality settings and lots of exposed variables to tweak.
 
+![Filmic PostFX][3] 
+*Some filmic post processing featuring tonemapping, vignette and image based lens flares with lens dirt filter.* \
+
 Other than my personal contributions, our final hand-in of course also featured the contributions of my wonderful team members, which included skeletal animations, GPU particle systems, cascaded shadow maps, compute-based clustered light culling and procedural generation of vegetation and planet geometry.
 
-Unfortunately as this project was part of a uni course, the source code is not publicly available.
-
-### Screenshots
 
 ![Character Rendering =250x100][1]
 *Basic PBR rendering working suprisingly well on a character even without proper skin shading.* \
-![PBR Materials + IBL][2]
-*More advanced material showcasing parallax occlusion mapping.* \
-![Filmic PostFX][3] 
-*Some filmic post processing featuring tonemapping, vignette and image based lens flares with lens dirt filter.* \
-![Material Editor][4]
-*A glimpse of the material editor allowing new materials to be created on the fly at runtime.* \
-![Spotlight][5]
-*A simple yet gorgeous spotlight.* 
+
+Unfortunately, since this project was part of a uni course, the source code is not publicly available.
+
+
 
 [1]: /img/portfolio/GPP/characterRendering.png 
 [2]: /img/portfolio/GPP/noice.PNG 
