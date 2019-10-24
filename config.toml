@@ -31,7 +31,7 @@ baseURL = "https://JWki.github.io"
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "jascha.wedowski@gmail.com"
+    #email = "jascha.wedowski@gmail.com"
 
     # Optional Matomo analytics (formerly piwik)
       # [params.analytics.matomo]
@@ -53,11 +53,11 @@ baseURL = "https://JWki.github.io"
   url = "about/"
 
   [[params.navlinks]]
-  name = "Get in touch"
+  name = "Contact"
   url = "contact/"
 
   [params.social]
-  email         = "jascha.wedowski@gmail.com"
+  #email         = "jascha.wedowski@gmail.com"
   twitter       = "https://twitter.com/wki_j"
   linkedin      = "https://www.linkedin.com/in/jascha-wedowski-130564196/"
   github        = "https://github.com/JWki/"
