@@ -23,6 +23,8 @@ Using this little API I made for myself, I went to, once again, implement a stap
 
 Eventually, as happens with most of these projects, this one lost direction at some point - I began adding a fully custom type system with runtime support that could have ended up becoming the object model for an embedded scripting / game language, and built a few things on top of it like a fancy node editor, however eventually life and other projects overtook this one. I would like to revisit a few elements of it at some point since I feel like this is actually one of the more coherent collection of features in a single codebase that I've produced so far.
 
+Feel free to check it out on [github](https://github.com/JWki/locust) as well.
+
 ### Screenshots
 
 ![A][1] \
