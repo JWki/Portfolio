@@ -4,7 +4,7 @@ draft = false
 image = "img/portfolio/gpu_skinning/thumbnail.png"
 date = "2019-10-24"
 title = "Skeletal Animation Playground"
-weight = 2
+weight = 1
 +++
 
 Writing fancy rendering pipelines is fun, but looking at completely static scenes becomes a bit dull after a while...
