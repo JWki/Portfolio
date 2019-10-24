@@ -1,5 +1,5 @@
 
-title = "Jascha Wedowski Programming Portfolio"
+title = "Jascha Wedowski's Programming Portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -14,7 +14,7 @@ baseURL = "https://JWki.github.io"
   # Use custom.css for your custom styling
   style = "blue"
   description = "Jascha Wedowski's Programming Portfolio"
-  siteTitle = "Jascha Wedowski Programming Portfolio"
+  siteTitle = "Jascha Wedowski's Programming Portfolio"
   copyright = "&copy;2019 Jascha Wedowski"
   sidebarAbout = [
     "Graphics and Game Engine Programming",
