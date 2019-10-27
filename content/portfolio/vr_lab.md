@@ -11,9 +11,11 @@ Another university project that was part of my Bachelors degree...
 
 <!--more-->
 ...this one actually turned out to have some gameplay in the end.
-I haven't yet managed to find my screenshot folder of it, but fortunately we submitted small trailer videos for this project and ours got uploaded to the institute's YouTube channel:
+I haven't yet managed to find my screenshot folder of it, but fortunately we submitted a small trailer video for this project which got uploaded to the institute's YouTube channel:
 
 {{< youtube M2W5AhV-NEE >}} \
+
+The goal was to come up with a small Virtual Reality game. We decided to go with a sword fighting simulator featuring movement controls, taking place in probably the most famous computer graphics test scene there is.
 
 On this project, I wrote my first renderer that actually supported a bunch of features:
 
