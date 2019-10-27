@@ -11,7 +11,7 @@ Writing fancy rendering pipelines is fun, but looking at completely static scene
 <!--more-->
 
 ...what truly breathes life into video games are animations!
-Having worked on [one project](../portfolio/vr_lab/index.html) before, I had only implemented the shader side of mesh skinning back then, with another team member implementing the actual animation playback. To close this in my opinion quite gaping hole in my practical experience, I set up a small self contained project covering the entire pipeline, from FBX file to in-game animation.
+Having worked on [one project](../vr_lab) that featured skeletal animation before, I had only implemented the GPU side of mesh skinning back then, with another team member implementing the actual animation playback. To close this hole in my practical experience, I set up a small self contained project covering the entire pipeline, from FBX file to in-game animation.
 
 {{< youtube HWBRe1VqDPw >}} 
 
