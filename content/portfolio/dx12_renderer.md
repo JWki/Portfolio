@@ -1,5 +1,5 @@
 +++
-showonlyimage = false
+showonlyimage = true
 draft = false
 image = "img/portfolio/dx12_renderer/thumbnail.jpg"
 date = "2019-10-24"

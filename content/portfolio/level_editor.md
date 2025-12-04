@@ -1,5 +1,5 @@
 +++
-showonlyimage = false
+showonlyimage = true
 draft = false
 image = "img/portfolio/level_editor/thumbnail.png"
 date = "2019-10-24"
