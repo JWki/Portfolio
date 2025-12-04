@@ -15,7 +15,7 @@ baseURL = "https://JWki.github.io"
   style = "blue"
   description = "Jascha Wedowski's Programming Portfolio"
   siteTitle = "Jascha Wedowski's Programming Portfolio"
-  copyright = "&copy;2019 Jascha Wedowski"
+  copyright = "&copy;2025 Jascha Wedowski"
   sidebarAbout = [
     "Graphics and Game Engine Programming",
   ]
